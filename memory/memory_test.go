@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/qor/cache"
+	"github.com/itech-eng/cache"
 )
 
 var client cache.CacheStoreInterface
